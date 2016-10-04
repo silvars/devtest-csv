@@ -13,7 +13,7 @@ Quick start
 2. `java -jar target/devtest-csv-0.0.1.jar "CityName"`
 3. For results, check {your_path}/devtest-csv/csv/"CityName".csv
 
-Code Coverage.
+Code Coverage
 ----------------------------
 
 1. `mvn clean test`
